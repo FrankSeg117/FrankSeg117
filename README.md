@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### 🔭 I’m currently working on projects in C++ for my advanced programming class!
+### 🌱 I’m currently learning C++
+### 📫 How to reach me: frank.segui1@upr.edu
+### ⚡ Fun fact, my gpu is about to fall
 <!--
 **FrankSeg117/FrankSeg117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
