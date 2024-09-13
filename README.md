@@ -1,8 +1,8 @@
 ### Hi there 👋
-### 🔭 I’m currently working on projects in C++ for my advanced programming class!
-### 🌱 I’m currently learning C++
+### 🔭 I’m currently working on projects in Java for my Data Structuresclass!
+### 🌱 I’m currently learning about linkedlistsarrays
 ### 📫 How to reach me: frank.segui1@upr.edu
-### ⚡ Fun fact, this is tough
+### ⚡ Fun fact, this is tough, but its fun!
 <!--
 **FrankSeg117/FrankSeg117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
