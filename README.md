@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on projects in Java for my Data Structuresclass!
-### 🌱 I’m currently learning about linkedlistsarrays
+### 🌱 I’m currently learning about linkedlists and arrays
 ### 📫 How to reach me: frank.segui1@upr.edu
 ### ⚡ Fun fact, this is tough, but its fun!
 <!--
