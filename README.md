@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on projects in Java for my Data Structures class!
-### 🌱 I’m currently learning about linkedlists and arrays
+### 🌱 I’m currently learning about Trees and Hashtables
 ### 📫 How to reach me: frank.segui1@upr.edu
 ### ⚡ Fun fact, this is tough, but its fun!
 <!--
