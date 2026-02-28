@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on projects in Java for my Data Structures class!
+### 🔭 I’m currently working on projects in C for my Operating Systems class!
 ### 🌱 I’m currently learning about Binary Search Trees
 ### 📫 How to reach me: frank.segui1@upr.edu
 ### ⚡ Fun fact, this is tough, but its fun!
