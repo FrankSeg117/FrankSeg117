@@ -1,6 +1,6 @@
 ### Hi there 👋
-### 🔭 I’m currently working on projects in C for my Operating Systems class!
-### 🌱 I’m currently learning about Binary Search Trees
+### 🔭 I’m currently working on projects in C and SQL for my Operating Systems course and Database Systems course!
+### 🌱 I’m currently learning about message queues and Entity Relations
 ### 📫 How to reach me: frank.segui1@upr.edu
 ### ⚡ Fun fact, this is tough, but its fun!
 <!--
