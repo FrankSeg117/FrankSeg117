@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on projects in C and SQL for my Operating Systems course and Database Systems course!
+### 🔭 I’m currently working on projects in custom programming languages for my Properties of Programming Languages course!
 ### 🌱 I’m currently learning about message queues and Entity Relations
 ### 📫 How to reach me: frank.segui1@upr.edu
 ### ⚡ Fun fact, this is tough, but its fun!
