@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on projects in custom programming languages for my Properties of Programming Languages course!
-### 🌱 I’m currently learning about message queues and Entity Relations
+### 🌱 I’m currently learning about Parse trees and execution
 ### 📫 How to reach me: frank.segui1@upr.edu
 ### ⚡ Fun fact, this is tough, but its fun!
 <!--
